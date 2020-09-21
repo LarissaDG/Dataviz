@@ -38,5 +38,8 @@ O código apresenta alguns markdowns e está estruturado da seguinte maneira:
 		
 		4.32 2) Quais as estações mais usadas? Para pegar a bicicleta emprestada e devolve-la respectivamente.
 
+<a href =  "https://medium.com/@laladg18/visualiza%C3%A7%C3%A3o-de-dados-sistema-de-compartilhamento-de-bicicletas-bras%C3%ADlia-de7b0d30406c">
+Documentação completa clique aqui
+ </a>
 
 
