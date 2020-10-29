@@ -32,11 +32,11 @@ de anexar via Chart Studio, serem anexadas via Datapane como originalmente.
 </a>
 
 <h1>Instruções</h1>
-<a> Para a repordução desse código é necessário alterar os diretórios que se referem a entrada e saídas de 
+<a> Para a execução desse código é necessário alterar os diretórios que se referem a entrada e saídas de 
 arquivos CSV. Os databases utilizados estão na pasta 'Database'. 
 
 Eu indico rodar primeiro o arquivo com as visualizações geográficas. Pois o banco de dados gerado por esse código é mais geral
-e funciona no outro arquivo enquanto o contrário não é verdadeiro. Alguns erros podem surgi se você tentar sobrescrever o 
+e funciona no outro arquivo enquanto o contrário não é verdadeiro. Alguns erros podem surgir se você tentar sobrescrever o 
 arquivo de banco de dados. Nesse caso você pode optar por apagá-lo e gerar um novo ou simplesmente dar continuidade a sua
 execução.
 
